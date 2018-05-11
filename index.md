@@ -1,37 +1,72 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/lusc4/lusc4.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lusc4/lusc4.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+            <link rel="stylesheet" type="text/css" href="estilo.css"/>
+                <div class="cicada">
+                <pre style="font: 10px/5px monospace;">                                                                                      
+                                                                                                    
+                                                                                                    
+             ^^^^`                                                                                  
+      `_=e%%%O$$$O$$$$?ei:.                   `~+?$*-`                   `-_==*e!%%%$$%$$?e=_^      
+    -e$!i+:~.^ `^~-::=ei*O#$e+~             `*O&#%!#&$o`             .:o?OO$!?!*:~....:=:::e##e.    
+  `o%_`~ie^  `i%?e+^    -_~_=!O$*_`         e@#:._^-:?&i         ^_*$O!i!:```    ieeo`~#o- -:*$$~   
+  e%^~--;i  `-O;  `.^`^~i?i?=-oe?OOe:`      $@i^~  _:i=~      `:e#%=~`-e_  ^- `._i^^.`-?;  ~;:i+_   
+ -&*  ~=*.   ^$_  ~+e!!e!*__!$!i=i!!OOi.    .#!`+;  i^      -eO%i.`.+!?. =?!?!$!i~     e_.+!=__~    
+ -&_`**~`_*!^~^--*-     `.`^:-i!OOeee?#&!_  ^&!;o!^-O~i  .+%Oi-^_o%?i:`   ^  ~*^ __  ^:$e=~+%!=:    
+  +oi+ ~%!-`-` =Oi ^;e?!!?i+==?%+_!oo?!#&@$_*@$eOii#?`~+e#&!_=!?eo~^--^~=e??!*e!;_o` `i?i*?;e?.     
+   ^:ie$= ^iO+.=? .i;_.^_.-;$!i;~`.:!$O!~+e#&@$;;~.~~_i&%?+i+e_~~=^;!%%O=+`^^~+*-   .eO?_ie?o.      
+     .-+~;O*^.=_$~   -i!+^~`.`._i!$%*::i- :=&O:^    ~o&i-~^`o:e%%!o=^_;_i_+e+~ ;_  ~*%o:e?*`        
+       `+!+ ~%$;^^ `o&?. .:ii$O%!i_^.::- ^$e=~ `i~  *~:._-+___.;+i!$$?=~:i==#&i ^`.$%$:i;-          
+        ^_oiO=`_%%.~!e`+?OO$?i-^  ^.-^  ^oOo_  _&~ ;&:^.i:.~;_^-;:+;+i!$OO!$!_^ ~%$$;-%?-           
+         .+==^-$+-.=$? +_^~+^`_i+.      ` .%&--!@__$#.   ::_^``:i_~^_:o*^-:e. ;=o?.i=!-             
+           _e!$= ^$Oi^  `:&:+!+^          :#@!;&e.?Oi.~^   ^:    ` ;o!e%-~;^`^;oo=o~!_              
+            ^;o=+%?^ .+o=!&-o_            _&@+..  `^^-.~.    ``     *O@$_*o=++;:%$?;                
+              `;=~_`   ~;e$.-.            ^O#~  ..~_                :%#o;*;~=__-                    
+                 `^` ^*$*-`:?O+           ^OO.:+*-=:= `^            `O?`~i?$*.                      
+                    ~O*~`.;%**=           .O#`^.` ^.^` ;            *&;~` =??$-                     
+                    %&_+~~=$e`^           `$$`:;`  ^=` `            ?O``~.=%!oi                     
+                   ^&?`.!$e:^ -`           i#` `:_``^              ^#i  o%e#o-`                     
+                    %$i$=.+e   `           i&.~oi^_ie.  ^          ^#_  ^o$$Oo                      
+                    -#O-~!o-_  ~`          eO   +^ -=   :          -&_  -e%$o^                      
+                     -%o!:~?~_ !`          o&^  :^ .~  ..-        `$O;`~e$$i                        
+                      ^+e+!-o__+_-`        ;&-  :` -`  = :        ;&;?++%%~                         
+                        _i*;+^?:e!!;       .&= .*^^.   + ~.    .o?$$iOo=:                           
+                          ::_`     ^        $O`.; ^    ~  -`   ~;:^^^.                              
+                                    `       +#^ :          .~^   `^                                 
+                                            ^#i.*+;                                                 
+                                             i#.                                                    
+                                             ~&=                                                    
+                                              %O`                                                   
+                                              _#;                                                   
+                                               =&~                                                  
+                                               ^&i                                                  
+                                                _+                                                  
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                              
+</pre>
+    </div>
+        
+    <h1>01101100 01110101 01100011 01100001 01110011 </h1>
+        </head>
+        
+<body>
+    <h2>
+        <ul>
+            <nav class="menu">
+            <a href="#">Sobre Mim</a>
+            <a href="#">HTML//CSS</a>
+            <a href="#">Photoshop//Corel</a>
+            <a href="#">Contato</a>
+            </nav>
+        </ul>
+    </h2>
+</body>
+</html>
