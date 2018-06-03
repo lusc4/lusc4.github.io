@@ -5,10 +5,11 @@
 }
 
 body {
-    margin: 0;
+    margin: 0px;
     background: #000;
     color: #fff;
-	text-align: center;
+    text-align: center;
+    background-position: 10px;
 }
 
 h1 {
@@ -37,3 +38,23 @@ a:hover {
 	background:#fff; 
     font-family: New Century Schoolbook, TeX Gyre Schola, serif;
 	}
+
+.return {
+    text-align: center;
+    font-size: 60;
+}
+input {
+    font-size: 15px;
+}
+#input1 {
+    float: left;
+    margin-left: 650px;
+}
+
+#input2{
+    float: left;
+}
+#input3 {
+    float: left;
+    margin-right: 650px;
+}
