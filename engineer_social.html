@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="style.css"/>
+            <pre style="font: 40px/5px monospace;"> Enginer_social V.1
+    </pre>
+</head>
+
+<body>
+    put all the information you have here :D<br><br>
+
+<div id="input">
+<input type="text"><br>
+<input type="text"><br>
+<input type="text"><br>
+<input type="text"><br>
+<input type="text"><br>
+<input type="text"><br>
+<input type="text"><br>
+<input type="text"><br>
+<input type="text"><br>
+<input type="text"><br>
+
+    
+    
+
+<input type="text"><br>
+<input type="text"><br>
+<input type="text"><br>
+<input type="text"><br>
+<input type="text"><br>
+<input type="text"><br>
+<input type="text"><br>
+<input type="text"><br>
+<input type="text"><br>
+<input type="text"><br>
+
+    
+
+<input type="text"><br>
+<input type="text"><br>
+<input type="text"><br>
+<input type="text"><br>
+<input type="text"><br>
+<input type="text"><br>
+<input type="text"><br>
+<input type="text"><br>
+<input type="text"><br>
+<input type="text"><br>
+</div>
+    
+    
+  <button onclick="getResult()">Calculate</button>
+  <div id="result"></div>
+    
+</body>
+
+  <script>
+    const getRandomInt = (min, max) => Math.floor(Math.random() * (Math.floor(max) - Math.ceil(min))) + min
+    const inputs = document.getElementsByTagName('input')
+    const getRandomInput = () => inputs[getRandomInt(0, inputs.length)].value
+    const getResult = () => document.getElementById('result').innerHTML = `${getRandomInput()} ${getRandomInput()}`
+  </script>
+</html>
