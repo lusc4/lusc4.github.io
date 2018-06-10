@@ -46,15 +46,3 @@ a:hover {
 input {
     font-size: 15px;
 }
-#input1 {
-    float: left;
-    margin-left: 650px;
-}
-
-#input2{
-    float: left;
-}
-#input3 {
-    float: left;
-    margin-right: 650px;
-}
