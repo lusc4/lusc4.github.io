@@ -1,12 +1,12 @@
 @charset "utf-8";
 .cicada {
     text-align: center;
-    color: #fff;
+    color: #000;
 }
 
 body {
     margin: 0px;
-    background: #000;
+    background: #696969;
     color: #fff;
     text-align: center;
     background-position: 10px;
